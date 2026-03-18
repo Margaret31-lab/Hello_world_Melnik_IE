@@ -1,0 +1,10 @@
+ Том в устройстве C имеет метку Windows
+ Серийный номер тома: 26E4-A5E8
+
+ Содержимое папки C:\Users\фвьшт\Documents\informatika_melnik\projects_3\task_3_2\GenomicData
+
+11.03.2026  15:41    <DIR>          .
+11.03.2026  15:41    <DIR>          ..
+11.03.2026  15:40                 3 sequencing_backup.log
+               1 файлов              3 байт
+               2 папок  233 448 771 584 байт свободно
